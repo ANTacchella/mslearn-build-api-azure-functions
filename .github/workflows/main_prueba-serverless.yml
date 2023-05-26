@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'prueba-serverless'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D781CC592C04ACCBBD76194BEF5769D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C07957A21152437AAB47473873531581 }}
           package: .
